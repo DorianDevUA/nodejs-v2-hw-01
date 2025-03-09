@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "a845ad6e-d04d-481c-aa58-e12e884cac58",
+    "name": "Seth Feeney",
+    "phone": "(095) 117-37-33",
+    "email": "Dallas.Stiedemann@hotmail.com",
+    "job": "Human Integration Producer"
+  },
+  {
+    "id": "f950755e-f189-48f9-99ed-f41342826d23",
+    "name": "Herman Langworth",
+    "phone": "(092) 030-22-23",
+    "email": "Napoleon17@hotmail.com",
+    "job": "Chief Security Associate"
+  },
+  {
+    "id": "b7ea8a3e-8bd1-4ee6-b618-7423a768f145",
+    "name": "Ronnie Hansen",
+    "phone": "(098) 800-31-51",
+    "email": "Maynard56@hotmail.com",
+    "job": "Senior Factors Supervisor"
+  },
+  {
+    "id": "e3fb9b11-040b-4cfb-90b2-e2e9246c5b28",
+    "name": "Jean Johnston Jr.",
+    "phone": "(094) 447-39-78",
+    "email": "Hardy4@gmail.com",
+    "job": "Senior Division Officer"
+  }
+]
